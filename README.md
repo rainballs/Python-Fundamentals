@@ -1,2 +1,2 @@
 # Python-Fundamentals
-Fundamental Python Solution Softuni in September 2022
+Fundamental Python Solutions Softuni September 2022
